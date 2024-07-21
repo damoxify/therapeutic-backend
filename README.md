@@ -3,8 +3,6 @@
 This repository contains the backend server for the Therapeutic AI interactive application. The application allows users to communicate with an AI model using text, image, or audio inputs. The backend handles authentication, user management, and proxy requests to the AI model.
 
 ## Table of Contents
-- [Development Plan](#development-plan)
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Running the Server](#running-the-server)
