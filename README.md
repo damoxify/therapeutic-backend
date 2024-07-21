@@ -16,7 +16,7 @@ This repository contains the backend server for the Therapeutic AI interactive a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/therapeutic-backend.git
+   git clone https://github.com/damoxify/therapeutic-backend.git
    cd therapeutic-backend
    ```
 
